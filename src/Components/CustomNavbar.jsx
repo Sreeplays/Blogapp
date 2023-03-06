@@ -45,7 +45,7 @@ const CustomNavbar = () => {
             </div>
             </Navbar>
            <div className={!nav ? 'hidden' : 'absolute bg-slate-100 w-full px-7'}>
-                 <div className='border border-zinc-500 w-full pb-3'><NavLink href='/'>Home</NavLink></div>
+                 <div className='border border-zinc-500 w-full pb-3'><NavLink href='/'>Sreeplays</NavLink></div>
                  <div className='border border-zinc-500 w-full pb-3'><NavLink href='/about'>About</NavLink></div>
                  <div className='border border-zinc-500 w-full pb-3'><NavLink href="/contact">Contact</NavLink></div>
                  <div className='border border-zinc-500 w-full pb-3'><NavLink href="/blog">Blog</NavLink></div>  
